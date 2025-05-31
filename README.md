@@ -47,3 +47,5 @@ To set up a gas leakage detection system using a Raspberry Pi 4 that sends notif
    - Create a Telegram bot via BotFather to get a bot token.
    - Obtain your chat ID by sending a message to your bot and visiting https://api.telegram.org/bot<YourBOTToken>/getUpdates.
 
+![SIC IOT POSTER FINAL](https://github.com/user-attachments/assets/ef17cf4d-b75b-43d9-ad0e-934a2283d30e)
+
